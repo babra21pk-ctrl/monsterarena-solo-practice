@@ -1,1 +1,1 @@
-# MonsterArena – Lag B
+# MonsterArena – Lag A and Lag B
